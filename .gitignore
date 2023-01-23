@@ -146,8 +146,12 @@ data/*
 !data/.gitkeepç
 other/*
 DATASETS/
+*.csv
 
 # weights and biases
 wandb/
 artifacts/
 test/
+
+# logs
+lightning_logs/
